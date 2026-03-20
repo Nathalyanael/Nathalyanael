@@ -15,9 +15,3 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-ff69b4?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-ff69b4?style=flat&logo=git&logoColor=white)
 
-## 📊 Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nathalyanael&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=c2185b&bg_color=fff0f6&border_color=ffb6c1&ring_color=ff69b4"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalyanael&layout=compact&title_color=ff69b4&text_color=c2185b&bg_color=fff0f6&border_color=ffb6c1"/>
-</p>
