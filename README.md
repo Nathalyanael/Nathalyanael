@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=30&center=true&vCenter=true&width=500&lines=Hello+my+name+is+Nathalya" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=30&center=true&vCenter=true&width=500&lines=Hello,+my+name+is+Nathalya" />
 </p>
+
 
 ## About me 
 
@@ -14,3 +15,4 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-ff69b4?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-ff69b4?style=flat&logo=git&logoColor=white)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=default&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)
