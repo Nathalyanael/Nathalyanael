@@ -14,5 +14,6 @@
 ![React](https://img.shields.io/badge/-React-ff69b4?style=flat&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-ff69b4?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-ff69b4?style=flat&logo=git&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-ff69b4?style=flat&logo=swift&logoColor=white)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nathalyanael&color=ff69b4&line=ff69b4&point=ffb6c1)
