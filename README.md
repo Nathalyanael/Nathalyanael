@@ -1,3 +1,11 @@
-## Hi there 👋
+## About me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathalyanael&layout=compact&title_color=ff69b4&text_color=c2185b&bg_color=fff0f6&border_color=ffb6c1)
+- Founder @ Nael Company  
+- Building apps, automations and systems  
+
+## Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-ff69b4?style=flat&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-ff69b4?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-ff69b4?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-ff69b4?style=flat&logo=git&logoColor=white)
