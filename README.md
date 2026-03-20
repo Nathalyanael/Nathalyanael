@@ -1,4 +1,4 @@
- <p style="color:#ff69b4;">## About me 💖</p>
+## About me 
 
 - Founder @ Nael Company  
 - Building apps, automations and systems  
