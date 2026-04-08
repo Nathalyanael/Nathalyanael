@@ -7,4 +7,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-ff69b4?style=flat&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-ff69b4?style=flat&logo=git&logoColor=white)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USER&theme=radical&hide_border=true)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nathalyanael&color=ff69b4&line=ff69b4&point=ffb6c1)
