@@ -6,5 +6,3 @@
 ![Swift](https://img.shields.io/badge/-Swift-ff69b4?style=flat&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-ff69b4?style=flat&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-ff69b4?style=flat&logo=git&logoColor=white)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nathalyanael&bg_color=ff69b4&color=ffffff&line=ffffff&point=ffb6c1&hide_border=true)
